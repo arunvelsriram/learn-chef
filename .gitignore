@@ -1,0 +1,6 @@
+# Vagrant
+.vagrant
+
+# Chef
+.chef/syntaxcache
+.chef/trusted_certs
